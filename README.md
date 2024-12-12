@@ -1,5 +1,7 @@
 # Aerial Road Segmentation using PyTorch
 
+![Aerial_Image_Segmentation](https://github.com/user-attachments/assets/62ab7e9c-dbcb-4bf8-a201-43b471495dff)
+
 ## Overview
 This project implements a road segmentation model using a U-Net architecture with an EfficientNet-B0 backbone to detect and segment roads from aerial imagery. The project uses the Massachusetts Roads Dataset subset and demonstrates a complete deep learning workflow for image segmentation.
 
@@ -81,7 +83,6 @@ pip install --upgrade opencv-contrib-python
 - Massachusetts Roads Dataset
 
 ## License
-[Insert appropriate license information]
+MIT License
 
-## Contributors
-[List contributors or maintainers]
+Feel free to use this implementation and modify it according to your needs. Contributions are welcome!
